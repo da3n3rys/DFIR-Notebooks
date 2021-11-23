@@ -1,0 +1,3 @@
+the tests require the image `joshua1.vmem` from:
+  - referenced: http://jessekornblum.livejournal.com/293291.html
+  - download: https://dl.dropboxusercontent.com/u/55819714/joshua1.zip
